@@ -35,8 +35,8 @@
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢸
 ```
 
-<img src="https://komarev.com/ghpvc/?username=shubham-shipt&label=Profile%20Views&style=flat" />
-<img src="https://img.shields.io/github/followers/shubham-shipt?style=flat&label=Followers" />
+<img src="https://komarev.com/ghpvc/?username=shubscript&label=Profile%20Views&style=flat" />
+<img src="https://img.shields.io/github/followers/shubscript?style=flat&label=Followers" />
 <img src="https://img.shields.io/badge/Active%20Days-106/365-FFD700?style=flat-pill&logo=github&logoColor=23272F" alt="Active Days" />
 <img src="https://img.shields.io/badge/GitHub%20User%20Since-2024-4B8BBE?style=flat-pill&logo=github&logoColor=fff" alt="GitHub Since" />
 </td>
@@ -270,7 +270,7 @@
 <tr>
 
 <td align="center" width="25%">
-<a href="https://github.com/shubham-shipt/Python-Mini-Projects">
+<a href="https://github.com/shubscript/Python-Mini-Projects">
 <img src="images/repo/1.png" width="120" height="120" style="border-radius:15px;">
 </a>
 <br><br>
@@ -280,7 +280,7 @@
 </td>
 
 <td align="center" width="25%">
-<a href="https://github.com/shubham-shipt/keylog-v12">
+<a href="https://github.com/shubscript/keylog-v12">
 <img src="images/repo/2.png" width="120" height="120" style="border-radius:15px;">
 </a>
 <br><br>
@@ -290,7 +290,7 @@
 </td>
 
 <td align="center" width="25%">
-<a href="https://shubham-shipt.github.io/Cyber-Library/">
+<a href="https://shubscript.github.io/Cyber-Library/">
 <img src="images/repo/3.png" width="120" height="120" style="border-radius:15px;">
 </a>
 <br><br>
@@ -300,7 +300,7 @@
 </td>
 
 <td align="center" width="25%">
-<a href="https://shubham-shipt.github.io/DailyDesk/">
+<a href="https://shubscript.github.io/DailyDesk/">
 <img src="images/repo/4.png" width="120" height="120" style="border-radius:15px;">
 </a>
 <br><br>
@@ -316,7 +316,7 @@
 <tr>
 
 <td align="center" width="25%">
-<a href="https://shubham-shipt.github.io/Shineword/">
+<a href="https://shubscript.github.io/Shineword/">
 <img src="images/repo/5.png" width="120" height="120" style="border-radius:15px;">
 </a>
 <br><br>
@@ -326,7 +326,7 @@
 </td>
 
 <td align="center" width="25%">
-<a href="https://shubham-shipt.github.io/Kali-Wall.sh/">
+<a href="https://shubscript.github.io/Kali-Wall.sh/">
 <img src="images/repo/6.png" width="120" height="120" style="border-radius:15px;">
 </a>
 <br><br>
@@ -336,7 +336,7 @@
 </td>
 
 <td align="center" width="25%">
-<a href="https://shubham-shipt.github.io/Tor-Project/">
+<a href="https://shubscript.github.io/Tor-Project/">
 <img src="images/repo/7.png" width="120" height="120" style="border-radius:15px;">
 </a>
 <br><br>
@@ -346,7 +346,7 @@
 </td>
 
 <td align="center" width="25%">
-<a href="https://github.com/shubham-shipt/cs2-mvp-autochat">
+<a href="https://github.com/shubscript/cs2-mvp-autochat">
 <img src="images/repo/8.png" width="120" height="120" style="border-radius:15px;">
 </a>
 <br><br>
@@ -362,7 +362,7 @@
 <tr>
 
 <td align="center" width="25%">
-<a href="https://shubham-shipt.github.io/Free-Fire-Collection-D/">
+<a href="https://shubscript.github.io/Free-Fire-Collection-D/">
 <img src="images/repo/9.png" width="120" height="120" style="border-radius:15px;">
 </a>
 <br><br>
