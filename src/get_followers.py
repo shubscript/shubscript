@@ -12,7 +12,7 @@ from typing import Any
 import requests
 
 GITHUB_GRAPHQL_API = "https://api.github.com/graphql"
-TARGET_USERNAME = "shubham-shipt"
+TARGET_USERNAME = "shubscript"
 FOLLOWER_COUNT = 24
 FOLLOWERS_PER_ROW = 6
 README_PATH = Path("README.md")
